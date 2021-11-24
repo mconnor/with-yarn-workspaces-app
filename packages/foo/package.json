@@ -1,4 +1,6 @@
 {
-  "private": true,
-  "license": "ISC"
+    "name": "foo",
+    "private": true,
+    "license": "ISC",
+    "version": "1.0.0"
 }
