@@ -4,9 +4,9 @@
     "packages/*"
   ],
   "scripts": {
-    "dev:next": "yarn workspace --cwd  web-app  dev",
-    "build": "yarn workspace web-app --cwd web-app build",
-    "start": "yarn workspace web-app--cwd web-app start"
+    "dev": "yarn workspace web-app dev",
+    "build": "yarn workspace web-app build",
+    "start": "yarn workspace web-app start"
   },
   "packageManager": "yarn@3.1.0"
 }
